@@ -19,7 +19,7 @@ PROTEIN - PROTEct your INformation
 
 .NOTES
 - Author		: Amador Pérez Trujillo
-- Twitter		: @c0p3rnic
+- Twitter		: @c0p3rnic0
 - Company		: http://www.newvisionsoftlan.com
 
 	
